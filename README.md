@@ -1,7 +1,3 @@
-Here’s a revised `README.md` with a fun tone and an open license:
-
----
-
 # Todo List
 
 Welcome to the **Todo List** app, your new best friend in the battle against procrastination! 📝✨ This React-based app, built with the super-speedy Vite, is here to help you organize your life, one task at a time. With a splash of water wave animation to keep things groovy and todos that stick around even if you hit refresh, this app is as reliable as your favorite coffee shop.
